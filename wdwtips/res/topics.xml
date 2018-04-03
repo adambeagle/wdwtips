@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<topics>
+  <parks>
+    <name>Parks</name>
+    <topics>
+      <mk>
+        <name>Magic Kingdom</name>
+        <topics>
+          <dining>
+            <name>Dining</name>
+          </dining>
+          <attractions>
+            <name>Attractions</name>
+          </attractions>
+          <transport>
+            <name>Transportation</name>
+          </transport>
+          <special-events>
+            <name>Special Events</name>
+          </special-events>
+        </topics>
+      </mk>
+      <epcot>
+        <name>Epcot</name>
+        <topics>
+          <dining>
+            <name>Dining</name>
+          </dining>
+          <attractions>
+            <name>Attractions</name>
+          </attractions>
+          <transport>
+            <name>Transportation</name>
+          </transport>
+          <special-events>
+            <name>Special Events</name>
+            <topics>
+              <food-and-wine>
+                <name>International Food &amp; Wine Festival</name>
+              </food-and-wine>
+              <holidays>
+                <name>International Festival of the Holidays</name>
+              </holidays>
+              <arts>
+                <name>International Festival of the Arts</name>
+              </arts>
+            </topics>
+          </special-events>
+        </topics>
+      </epcot>
+      <dhs>
+        <name>Hollywood Studios</name>
+        <topics>
+          <dining>
+            <name>Dining</name>
+          </dining>
+          <attractions>
+            <name>Attractions</name>
+          </attractions>
+          <transport>
+            <name>Transportation</name>
+          </transport>
+        </topics>
+      </dhs>
+      <dak>
+        <name>Animal Kingdom</name>
+        <topics>
+          <dining>
+            <name>Dining</name>
+          </dining>
+          <attractions>
+            <name>Attractions</name>
+          </attractions>
+          <transport>
+            <name>Transportation</name>
+          </transport>
+        </topics>
+      </dak>
+    </topics>
+  </parks>
+  <resorts>
+    <name>Resorts</name>
+    <topics>
+      <deluxe>
+        <name>Deluxe Resorts</name>
+        <topics>
+          <akl>
+            <name>Animal Kingdom Lodge</name>
+          </akl>
+          <beach-yacht>
+            <name>Beach and Yacht Club Resorts</name>
+          </beach-yacht>
+          <boardwalk>
+            <name>Boardwalk Inn</name>
+          </boardwalk>
+          <contemporary>
+            <name>Contemporary Resort</name>
+          </contemporary>
+          <grand-fl>
+            <name>Grand Floridian</name>
+          </grand-fl>
+          <poly>
+            <name>Polynesian Village Resort</name>
+          </poly>
+          <swolphin>
+            <name>Swan &amp; Dolphin</name>
+          </swolphin>
+          <wl>
+            <name>Wilderness Lodge</name>
+          </wl>
+        </topics>
+      </deluxe>
+      <moderate>
+        <name>Moderate Resorts</name>
+        <topics>
+          <caribbean>
+            <name>Caribbean Beach</name>
+          </caribbean>
+          <coronado>
+            <name>Coronado Springs</name>
+          </coronado>
+          <po-fq>
+            <name>Port Orleans French Quarter</name>
+          </po-fq>
+          <po-riverside>
+            <name>Port Orleans Riverside</name>
+          </po-riverside>        
+        </topics>
+      </moderate>
+      <value>
+        <name>Value Resorts</name>
+        <topics>
+          <all-stars>
+            <name>All-Star Resorts</name>
+          </all-stars>
+          <aoa>
+            <name>Art of Animation</name>
+          </aoa>
+          <pop>
+            <name>Pop Century</name>
+          </pop>
+        </topics>
+      </value>
+      <dvc>
+        <name>DVC</name>
+      </dvc>
+      <offsite>
+        <name>Offsite Resorts</name>
+      </offsite>
+    </topics>
+  </resorts>
+  <planning>
+    <name>Planning</name>
+    <topics>
+      <budget>
+        <name>Budget</name>
+      </budget>
+      <fastpass>
+        <name>FastPass+</name>
+      </fastpass>
+      <lodging>
+        <name>Lodging</name>
+      </lodging>
+      <discounts>
+        <name>Discounts and Packages</name>
+      </discounts>
+      <tickets>
+        <name>Park Tickets</name>
+        <topics>
+          <hopper>
+            <name>Park Hopper</name>
+          </hopper>
+        </topics>
+      </tickets>
+    </topics>
+  </planning>
+</topics>

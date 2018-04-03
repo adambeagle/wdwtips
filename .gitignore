@@ -1,0 +1,8 @@
+package-lock.json
+docs/*
+old/*
+node_modules/*
+wdwtips/static/images/avatars/*
+wdwtips/static/fonts/*
+wdwtips/inc/config.php
+wdwtips/inc/third-party/*
